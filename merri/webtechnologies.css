@@ -1,0 +1,160 @@
+.l{
+    height: 110px;
+    width: 230px;
+    margin-left: 80px;
+}
+li{
+    margin-left: 10px;
+    
+}
+.a{
+    color: aliceblue;
+}
+.a:hover{
+    color: green;
+}
+.m1{
+    height: 400px;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.719), rgba(8, 8, 8, 0.719)) ,url(https://media.istockphoto.com/id/1190049247/photo/busy-day-group-of-multiracial-business-people-working-together-in-the-creative-co-working.jpg?s=612x612&w=0&k=20&c=qeX4zYuc555ruMM-f6adyFcMmqTP_q7_y73G4l8Vlro=);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.m2{
+    font-size: 70px;
+    color: aliceblue;
+    padding-top: 100px;
+    padding-left: 260px;
+}
+.m3{
+    font-size: 70px;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-left: 390px;
+}
+.m4{
+    height: 1300px;
+    background-image: linear-gradient( rgba(240, 248, 255, 0.692), rgba(240, 248, 255, 0.692)) ,url(https://thumbs.dreamstime.com/b/white-square-pattern-background-design-abstract-white-square-pattern-background-design-112491840.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    
+}
+.m5{
+    padding-top: 20px;
+    font-size: 35px;
+}
+.m6{
+    height: 3px;
+    width: 40px;
+    float: left;
+    background-color: rgb(15, 15, 209);
+    margin-left: 650px;
+}
+.m7{
+    text-align: center;
+    color: grey;
+    /* margin-left:560px ; */
+    padding-top: 20px;
+}
+.m8{
+    font-size: 30px;
+
+
+}
+.m9{
+    height: 170px;
+    width: 120px;
+    border: 3px solid rgba(172, 167, 167, 0.644);
+    float: left;
+    border-radius: 9px;
+
+}
+.m10{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.m11{
+    height: 170px;
+    width: 130px;
+    border: 3px solid rgba(172, 167, 167, 0.644);
+    float: left;
+    border-radius: 9px;
+}
+.m12{
+    height: 190px;
+    width: 135px;
+    border: 3px solid rgba(172, 167, 167, 0.644);
+    float: left;
+    border-radius: 9px;
+}
+.m13{
+    height: 110px;
+    width: 120px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.m14{
+    height: 230px;
+    width: 179px;
+    border: 3px solid rgba(172, 167, 167, 0.644);
+    float: left;
+    border-radius: 9px;
+}
+.m15{
+    height: 130px;
+    width: 140px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.m12:hover{
+    border: 1px solid black;
+}
+.m14:hover{
+    border: 1px solid black;
+}
+.m11:hover{
+    border: 1px solid black;
+}
+.m9:hover{
+    border: 1px solid black;
+}
+.m16{
+    padding-left: 30px;
+
+}
+.m17{
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.m18{
+    height: 50px;
+    width: 150px;
+    background-color:  rgba(42, 42, 219, 0.781);
+    margin-left: 140px;
+    margin-top: 50px;
+    margin-bottom: 50PX;
+}
+.m19{
+    height: 550px;
+    width: 100%;
+}
+
+
+.imgweb{
+    height: 100px;
+    width: 200px;
+}
+
+.meh3{
+    background-color: rgb(5, 5, 43);
+    height: 300px;
+    width: 100%;
+    float: left;
+    color: aliceblue    ;
+}
+
